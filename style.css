@@ -61,3 +61,24 @@ a{
     flex-wrap:wrap;
     gap:30px;
 }
+
+.buncha-images{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:20px;
+    text-align:center;
+
+}
+
+.brdr{
+    border: 3px solid #2883f6;
+    margin:2px;
+    padding:5px;
+    border-radius:12px;
+}
+
+.subtle-text{
+    color:rgb(81, 79, 79);
+
+}
