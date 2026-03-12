@@ -66,7 +66,7 @@ a{
     display:flex;
     justify-content:center;
     align-items:center;
-    gap:20px;
+    gap:50px;
     text-align:center;
 
 }
@@ -82,3 +82,36 @@ a{
     color:rgb(81, 79, 79);
 
 }
+
+.second-block{
+    padding:60px;
+}
+
+.third-block{
+    background-color:#e5e7eb;
+    text-align:center;
+    padding:50px;
+}
+
+.quote{
+    padding-bottom:20px;
+    font-style: italic;
+    font-weight:200;
+}
+
+
+
+.by-auth{
+    font-weight:bold;
+    
+    padding-left:300px
+}
+
+.blue{
+    border-radius:10px;
+    margin:40px;
+    background-color:rgb(59, 134, 204);
+    text-align:center;
+}
+
+
